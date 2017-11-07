@@ -1,0 +1,957 @@
+fileFormatVersion: 2
+guid: f9c88fa869123d745b0fb85842f6466f
+timeCreated: 1510091915
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pasted image 0 (2)_0
+    21300002: pasted image 0 (2)_1
+    21300004: pasted image 0 (2)_2
+    21300006: pasted image 0 (2)_3
+    21300008: pasted image 0 (2)_4
+    21300010: pasted image 0 (2)_5
+    21300012: pasted image 0 (2)_6
+    21300014: pasted image 0 (2)_7
+    21300016: pasted image 0 (2)_8
+    21300018: pasted image 0 (2)_9
+    21300020: pasted image 0 (2)_10
+    21300022: pasted image 0 (2)_11
+    21300024: pasted image 0 (2)_12
+    21300026: pasted image 0 (2)_13
+    21300028: pasted image 0 (2)_14
+    21300030: pasted image 0 (2)_15
+    21300032: pasted image 0 (2)_16
+    21300034: pasted image 0 (2)_17
+    21300036: pasted image 0 (2)_18
+    21300038: pasted image 0 (2)_19
+    21300040: pasted image 0 (2)_20
+    21300042: pasted image 0 (2)_21
+    21300044: pasted image 0 (2)_22
+    21300046: pasted image 0 (2)_23
+    21300048: pasted image 0 (2)_24
+    21300050: pasted image 0 (2)_25
+    21300052: pasted image 0 (2)_26
+    21300054: pasted image 0 (2)_27
+    21300056: pasted image 0 (2)_28
+    21300058: pasted image 0 (2)_29
+    21300060: pasted image 0 (2)_30
+    21300062: pasted image 0 (2)_31
+    21300064: pasted image 0 (2)_32
+    21300066: pasted image 0 (2)_33
+    21300068: pasted image 0 (2)_34
+    21300070: pasted image 0 (2)_35
+    21300072: pasted image 0 (2)_36
+    21300074: pasted image 0 (2)_37
+    21300076: pasted image 0 (2)_38
+    21300078: pasted image 0 (2)_39
+    21300080: pasted image 0 (2)_40
+    21300082: pasted image 0 (2)_41
+    21300084: pasted image 0 (2)_42
+    21300086: pasted image 0 (2)_43
+    21300088: pasted image 0 (2)_44
+    21300090: pasted image 0 (2)_45
+    21300092: pasted image 0 (2)_46
+    21300094: pasted image 0 (2)_47
+    21300096: pasted image 0 (2)_48
+    21300098: pasted image 0 (2)_49
+    21300100: pasted image 0 (2)_50
+    21300102: pasted image 0 (2)_51
+    21300104: pasted image 0 (2)_52
+    21300106: pasted image 0 (2)_53
+    21300108: pasted image 0 (2)_54
+    21300110: pasted image 0 (2)_55
+    21300112: pasted image 0 (2)_56
+    21300114: pasted image 0 (2)_57
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pasted image 0 (2)_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 439
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 439
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 439
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 439
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 439
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 439
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 439
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 439
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 439
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 439
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 439
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_11
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 439
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 381
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 381
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 381
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 381
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 381
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 381
+        width: 17
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_18
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 439
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 439
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 355
+        width: 100
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 355
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 355
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_23
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 355
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 272
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 300
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 301
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 273
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 276
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 276
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 275
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 276
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 276
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_33
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 276
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 276
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_35
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 276
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_36
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 276
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_37
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 276
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_38
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 276
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 215
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 215
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 215
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 215
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 215
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 215
+        width: 47
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_45
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 215
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_46
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 215
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 126
+        width: 126
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 124
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_49
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 124
+        width: 125
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_50
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 134
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_51
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 134
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_52
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 134
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_53
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 134
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_54
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 134
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 34
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_56
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 39
+        width: 148
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pasted image 0 (2)_57
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 13
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
