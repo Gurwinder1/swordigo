@@ -2,6 +2,9 @@ sceneSetups:
 - path: Assets/Scenes/Studio Logo.unity
   isLoaded: 1
   isActive: 1
-- path: Assets/Scenes/test.unity
+- path: Assets/Scenes/Map.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/Player.unity
   isLoaded: 1
   isActive: 0
