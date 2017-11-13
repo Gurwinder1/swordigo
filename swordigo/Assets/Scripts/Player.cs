@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Player : MonoBehaviour {
-    private Rigidbody2D myRigidbody;
+
+	 private Rigidbody2D myRigidbody;
+	private Animator myAnimator;
 
     [SerializeField]
     private float movementSpeed;
@@ -13,6 +15,7 @@ public class Player : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         myRigidbody = GetComponent<Rigidbody2D>();
+		myAnimator = GetComponent<Animator> ();
 		
 	}
 	
@@ -31,6 +34,8 @@ public class Player : MonoBehaviour {
     private void HandleMovement(float horizontal)
     {
         myRigidbody.velocity = new Vector2(horizontal * movementSpeed, myRigidbody.velocity.y);
+
+		myAnimator.SetFloat ("speed", Mathf.Abs(horizontal));
     }
 
     private void Flip(float horizontal)
